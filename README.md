@@ -1,1 +1,3 @@
-# gaming_notes_total_war_warhammer_3
+# Gaming Notes Total War Warhammer 3
+
+This repository [Wiki](../../wiki) will holds gaming notes
