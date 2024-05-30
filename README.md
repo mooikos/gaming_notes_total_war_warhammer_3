@@ -7,6 +7,7 @@ This repository holds gaming notes about [Total War Warhammer 3](https://store.s
 install jekyll (and plugin dependency) gem locally to not need a ruby setup in the project
 - `gem install jekyll`
 - `gem install jekyll-include-cache`
+- `gem install jekyll-remote-theme`
 
 start jekyll server locally
 - `jekyll serve`

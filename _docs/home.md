@@ -1,5 +1,4 @@
 ---
-<!-- layout: single -->
 title: Total War Warhammer 3
 permalink: home
 ---
