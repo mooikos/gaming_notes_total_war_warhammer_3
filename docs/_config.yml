@@ -1,5 +1,5 @@
 # defines the remote theme
-remote_theme:
+remote_theme: just-the-docs/just-the-docs
 
 # site configurations
 title: Total War Warhammer 3
