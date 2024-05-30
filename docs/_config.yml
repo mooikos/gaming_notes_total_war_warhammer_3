@@ -1,4 +1,9 @@
+# defines the remote theme
 remote_theme: mmistakes/minimal-mistakes
+
+# theme configurations
+## defines a different skin
+minimal_mistakes_skin: "dirt"
 
 plugins:
   # requirement of the theme

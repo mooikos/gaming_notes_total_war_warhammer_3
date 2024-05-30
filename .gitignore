@@ -1,0 +1,7 @@
+# jekyll files
+
+## jekyll cache
+docs/.jekyll-cache/
+
+## generated site
+docs/_site/
