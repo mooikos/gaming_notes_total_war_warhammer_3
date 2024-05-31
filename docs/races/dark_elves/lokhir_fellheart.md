@@ -1,4 +1,13 @@
-# Final Army
+---
+permalink: dark_elves/lokhir_fellheart
+grand_parent: Races
+parent: Dark Elves
+nav_order: 1
+---
+
+# Lokhir Fellheart
+
+## Final Army
 
 - lokhir
 - 1 master (tank)
@@ -13,8 +22,7 @@
 - 1 bloodwrack_medusa
 - 1 bloodwrack_shrine
 
-
-# Campaign Start
+## Campaign Start
 
 - lokhir
 - 1 sorceress (mage)

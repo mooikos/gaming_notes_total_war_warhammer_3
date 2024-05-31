@@ -1,18 +1,27 @@
-# Lord
+---
+permalink: dark_elves/unit_caps
+grand_parent: Races
+parent: Dark Elves
+nav_order: 12
+---
+
+# Unit Caps
+
+## Lord
 
 - dreadlord (tank)
 - dreadlord_crossbow (ranged)
 - high_beastmaster (anti_large tank)
 - supreme_sorceress (mage)
 
-# Heroes
+## Heroes
 
 - master (tank)
 - death_hag (fighter)
 - khainite_assassin (fighter)
 - sorceress (mage)
 
-# Common
+## Common
 
 - dreadspears
 - bleakswords
@@ -29,7 +38,7 @@ _rakarth_
 - explosive_squig
 
 
-# Special
+## Special
 
 1
 - harpies
@@ -50,7 +59,7 @@ _rakarth_
 - scourgerunner_chariots
 - feral_manticore
 
-# Rare
+## Rare
 
 1
 - sisters_of_slauther

@@ -1,4 +1,13 @@
-# Ranged Waiting
+---
+permalink: dark_elves/dreadlord
+grand_parent: Races
+parent: Dark Elves
+nav_order: 7
+---
+
+# Dreadlord
+
+## Ranged Waiting
 
 - dreadlord (tank)
 - 1 death_hag (damage)

@@ -1,4 +1,13 @@
-# Lords & Heroes
+---
+permalink: dark_elves/traits
+grand_parent: Races
+parent: Dark Elves
+nav_order: 11
+---
+
+# Traits
+
+## Lords & Heroes
 
 cruel (L)
 - +10% income_raiding
@@ -19,7 +28,7 @@ vicious (L)
 - +3 attack
 - +3 defence
 
-# Black Arks
+## Black Arks
 
 the_krakens_claw
 - +6 attack black_ark_corsair
@@ -29,7 +38,7 @@ the_krakens_claw
 - +10 growth_black_ark
 
 
-# Names of Power 
+# Names of Power
 
 ## Army ("Revered")
 

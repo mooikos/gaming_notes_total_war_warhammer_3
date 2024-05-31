@@ -1,4 +1,12 @@
-# Lords & Heroes
+---
+permalink: general/traits
+parent: General
+nav_order: 2
+---
+
+# Traits
+
+## Lords & Heroes
 
 aggressive (L)
 - +10% weapon_strength

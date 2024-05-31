@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/enchanted_item
+parent: Items
+nav_order: 4
+---
+
+# Enchanted Item
+
+## Common
 
 featherfoe_torc
 - ability_featherfoe_torc
@@ -12,8 +20,7 @@ potion_of_strength
 potion_of_thoughness
 - ability_potion_of_thoughness
 
-
-# Abilities
+## Abilities
 
 featherfoe_torc
 - passive

@@ -1,4 +1,12 @@
-# List
+---
+permalink: campaigns/completed
+parent: Campaigns
+nav_order: 3
+---
+
+# Completed
+
+## List
 
 - beastmen - khazrak
 - bretonnia - fay

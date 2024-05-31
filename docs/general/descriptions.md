@@ -1,11 +1,19 @@
-# Terms
+---
+permalink: general/descriptions
+parent: General
+nav_order: 1
+---
+
+# Descriptions
+
+## Terms
 
 - (+-)X(%)
 - (stat)
 - unit_1 / unit_2
 - \* (means same as above)
 
-# Stats Battles
+## Stats Battles
 
 - armour
 - armour_piercing
@@ -32,7 +40,7 @@
 - weapon_strength
 - weapon_strength_army
 
-# Abilities Battles
+## Abilities Battles
 
 - ability_X
 - ability_cooldown_X
@@ -48,7 +56,7 @@
 - unbreakable
 - wayfarer
 
-# Stats Campaign
+## Stats Campaign
 
 - ambush_defence
 - ambush_success
@@ -71,10 +79,11 @@
 - recruit_level_X
 - upkeep
 
-# Abilities Campaign
+## Abilities Campaign
+
 - attrition_immune_X
 
-# Spells
+## Spells
 
 - active / passive / usages
 - self / self_area / target / target_area / global

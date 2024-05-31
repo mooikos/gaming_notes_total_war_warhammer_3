@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/arcane_item
+parent: Items
+nav_order: 5
+---
+
+# Arcane Item
+
+## Common
 
 channeling_staff
 - -10% spell_cooldown
@@ -7,7 +15,7 @@ channeling_staff
 power_stone
 - ability_power_stone
 
-# Rare
+## Rare
 
 black_staff
 - ability_black_staff
@@ -15,8 +23,7 @@ black_staff
 scroll_of_leeching
 - ability_scroll_of_leeching
 
-
-# Abilities
+## Abilities
 
 black_staff
 - usages

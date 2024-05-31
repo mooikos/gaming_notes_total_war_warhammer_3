@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/talisman
+parent: Items
+nav_order: 3
+---
+
+# Talisman
+
+## Common
 
 luckstone
 - +7% resistance_physical
@@ -10,13 +18,12 @@ opal_amulet
 talisman_of_protection
 - +5% ward
 
-# Uncommon
+## Uncommon
 
 obsidian_amulet
 - +20% resistance_spell
 
-
-# Abilities
+## Abilities
 
 opal_amulet
 - active

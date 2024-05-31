@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/weapon
+parent: Items
+nav_order: 2
+---
+
+# Weapon
+
+## Common
 
 gold_sigil_sword
 - +3 attack
@@ -21,7 +29,7 @@ web_of_shadows
 - magic
 - ability_web_of_shadows
 
-# Uncommon
+## Uncommon
 
 sword_of_strife
 - +7 attack
@@ -31,13 +39,13 @@ the_brass_cleaver
 - +4% damage
 - ability_the_brass_cleaver
 
-# Rare
+## Rare
 
 blade_of_ruin
 - sundering
 - +70 damage_piercing
 
-# Abilities
+## Abilities
 
 the_brass_cleaver
 - passive

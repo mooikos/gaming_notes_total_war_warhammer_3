@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/armour
+parent: Items
+nav_order: 1
+---
+
+# Armour
+
+## Common
 
 charmed_shield
 - +7 defence
@@ -16,14 +24,12 @@ shield_of_ptolos
 - +5 defence
 - +10% resistance_missile
 
-
-# Uncommon
+## Uncommon
 
 armour_of_silvered_steel
 - +20 armour
 
-
-# Rare
+## Rare
 
 armour_of_living_death
 - +6 armour
@@ -32,8 +38,7 @@ armour_of_living_death
 - -7 leadership
 - ability_the_hunger
 
-
-# Abilities
+## Abilities
 
 charmed_shield
 - active

@@ -1,4 +1,12 @@
-# Common
+---
+permalink: items/banner
+parent: Items
+nav_order: 6
+---
+
+# Banner
+
+## Common
 
 banner_of_eternal_flame
 - ability_banner_of_eternal_flame
@@ -26,20 +34,20 @@ the_blood_banner
 - ability_passive_frenzy
 - +5 leadership
 
-# Uncommon
+## Uncommon
 
 banner_of_murder
 - +15% movement_speed
 - +10 charge
 - +10% charge
 
-# Rare
+## Rare
 
 rangers_standard
 - strider
 - +10% movement_speed
 
-# Abilities
+## Abilities
 
 banner_of_eternal_flame
 - passive
