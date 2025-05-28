@@ -13,10 +13,10 @@ luckstone
 
 opal_amulet
 - +4 defence
-- ability_opal_amulet
+- ability opal_amulet
 
 talisman_of_protection
-- +5% ward
+- +5% ward_save
 
 ## Uncommon
 
@@ -28,4 +28,4 @@ obsidian_amulet
 opal_amulet
 - active
 - self
-- buff +20% ward
+- buff +20% ward_save

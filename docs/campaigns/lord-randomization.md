@@ -1,5 +1,5 @@
 ---
-permalink: campaigns/lord_randomization
+permalink: campaigns/lord-randomization
 parent: Campaigns
 nav_order: 1
 ---

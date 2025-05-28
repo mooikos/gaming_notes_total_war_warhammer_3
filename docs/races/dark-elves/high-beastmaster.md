@@ -1,6 +1,5 @@
 ---
-permalink: dark_elves/high_beastmaster
-grand_parent: Races
+permalink: dark-elves/high-beastmaster
 parent: Dark Elves
 nav_order: 9
 ---

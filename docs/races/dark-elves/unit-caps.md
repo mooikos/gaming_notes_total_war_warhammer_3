@@ -1,11 +1,10 @@
 ---
-permalink: dark_elves/unit_caps
-grand_parent: Races
+permalink: dark-elves/unit-caps
 parent: Dark Elves
 nav_order: 12
 ---
 
-# Unit Caps
+# Unit Caps (Dark Elves)
 
 ## Lord
 
@@ -25,30 +24,31 @@ nav_order: 12
 
 - dreadspears
 - bleakswords
-- black_ark_corsair
+- black_ark_corsairs
 - witch_elves
 - darkshards
 - darkshards_shields
-- black_ark_corsair_handbows
+- black_ark_corsairs_handbows
 - dark_riders
 - dark_riders_shields
 - dark_riders_repeater_crossbows
 
-_rakarth_
+### Common (rakarth)
+
 - explosive_squig
 
+## Special 1
 
-## Special
-
-1
 - harpies
 - shades
 - cold_one_knights
 
-1 _rakarth_
+### Special 1 (rakarth)
+
 - giant_wolves
 
-2
+## Special 2
+
 - black_guard_of_naggarond
 - har_ganeth_executioners
 - shades_dual_weapons
@@ -59,20 +59,22 @@ _rakarth_
 - scourgerunner_chariots
 - feral_manticore
 
-## Rare
+## Rare 1
 
-1
 - sisters_of_slauther
 - bloodwrack_medusa
 - reaper_bolt_throwers
 
-2
+## Rare 2
+
 - war_hydra
 - kharibdyss
 - bloodwrack_shrine
 
-2 _rakarth_
+### Rare 2 (rakarth)
+
 - feral_mammoth
 
-3
+## Rare 3
+
 - black_dragon

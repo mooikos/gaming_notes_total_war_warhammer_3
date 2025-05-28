@@ -6,11 +6,11 @@ has_children: true
 
 # Races
 
-## [Dark Elves](dark_elves/index)
+## [Dark Elves](dark-elves/index)
 
-- [Crone Hellebron](dark_elves/crone_hellebron)
-- [Lokhir Fellheart](dark_elves/lokhir_fellheart)
-- [Malekith](dark_elves/malekith)
-- [Malus Darkblade](dark_elves/malus_darkblade)
-- [Morathi](dark_elves/morathi)
-- [Rakarth](dark_elves/rakarth)
+- [Crone Hellebron](dark-elves/crone_hellebron)
+- [Lokhir Fellheart](dark-elves/lokhir_fellheart)
+- [Malekith](dark-elves/malekith)
+- [Malus Darkblade](dark-elves/malus_darkblade)
+- [Morathi](dark-elves/morathi)
+- [Rakarth](dark-elves/rakarth)

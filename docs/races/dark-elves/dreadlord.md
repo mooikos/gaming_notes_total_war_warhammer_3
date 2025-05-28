@@ -1,6 +1,5 @@
 ---
-permalink: dark_elves/dreadlord
-grand_parent: Races
+permalink: dark-elves/dreadlord
 parent: Dark Elves
 nav_order: 7
 ---

@@ -13,7 +13,7 @@ gold_sigil_sword
 - +3 defence
 
 shrieking_blade
-- magic
+- attacks_magic
 - fear
 - terror
 
@@ -22,12 +22,12 @@ sword_of_battle
 - +4% damage
 
 tormentor_sword
-- magic
-- ability_tormentor_sword
+- attacks_magic
+- ability tormentor_sword
 
 web_of_shadows
-- magic
-- ability_web_of_shadows
+- attacks_magic
+- ability web_of_shadows
 
 ## Uncommon
 
@@ -37,12 +37,12 @@ sword_of_strife
 
 the_brass_cleaver
 - +4% damage
-- ability_the_brass_cleaver
+- ability the_brass_cleaver
 
 ## Rare
 
 blade_of_ruin
-- sundering
+- attacks_sundering
 - +70 damage_piercing
 
 ## Abilities

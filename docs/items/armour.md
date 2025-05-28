@@ -10,7 +10,7 @@ nav_order: 1
 
 charmed_shield
 - +7 defence
-- ability_charmed_shield
+- ability charmed_shield
 
 dragonhelm
 - +5 armour
@@ -34,16 +34,16 @@ armour_of_silvered_steel
 armour_of_living_death
 - +6 armour
 - +6 defence
-- +10% ward
+- +10% ward_save
 - -7 leadership
-- ability_the_hunger
+- ability the_hunger
 
 ## Abilities
 
 charmed_shield
 - active
 - self
-- buff +24 missile_block / +20% ward
+- buff +24 missile_block / +20% ward_save
 
 the_hunger
 - passive

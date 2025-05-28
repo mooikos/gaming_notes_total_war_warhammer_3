@@ -1,6 +1,5 @@
 ---
-permalink: dark_elves/dreadlord_crossbow
-grand_parent: Races
+permalink: dark-elves/dreadlord-crossbow
 parent: Dark Elves
 nav_order: 8
 ---

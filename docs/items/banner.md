@@ -9,7 +9,7 @@ nav_order: 6
 ## Common
 
 banner_of_eternal_flame
-- ability_banner_of_eternal_flame
+- ability banner_of_eternal_flame
 
 banner_of_murder
 - +15% movement_speed
@@ -22,7 +22,7 @@ banner_of_swiftness
 - wayfarer
 
 scarecrow_banner
-- ability_scarecrow_banner
+- ability scarecrow_banner
 
 sea_serpent_standard
 - frenzy
@@ -31,7 +31,7 @@ standard_of_discipline
 - +7 discipline
 
 the_blood_banner
-- ability_passive_frenzy
+- ability passive_frenzy
 - +5 leadership
 
 ## Uncommon
@@ -52,7 +52,7 @@ rangers_standard
 banner_of_eternal_flame
 - passive
 - self_area
-- buff flaming / +8% damage
+- buff attacks_flaming / +8% damage
 
 scarecrow_banner
 - passive

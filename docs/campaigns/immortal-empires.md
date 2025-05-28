@@ -1,5 +1,5 @@
 ---
-permalink: campaigns/immortal_empires
+permalink: campaigns/immortal-empires
 parent: Campaigns
 nav_order: 2
 ---

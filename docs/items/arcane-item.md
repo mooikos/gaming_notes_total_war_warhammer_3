@@ -1,5 +1,5 @@
 ---
-permalink: items/arcane_item
+permalink: items/arcane-item
 parent: Items
 nav_order: 5
 ---
@@ -10,18 +10,18 @@ nav_order: 5
 
 channeling_staff
 - -10% spell_cooldown
-- ability_channeling_staff
+- ability channeling_staff
 
 power_stone
-- ability_power_stone
+- ability power_stone
 
 ## Rare
 
 black_staff
-- ability_black_staff
+- ability black_staff
 
 scroll_of_leeching
-- ability_scroll_of_leeching
+- ability scroll_of_leeching
 
 ## Abilities
 

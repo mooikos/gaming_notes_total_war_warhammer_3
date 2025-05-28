@@ -1,5 +1,5 @@
 ---
-permalink: general/unit_types
+permalink: general/unit-types
 parent: General
 nav_order: 3
 ---
@@ -12,7 +12,7 @@ potential prefix "_flying_\_"
 - cavalry_melee
 - cavalry_melee_shock
 - cavalry_missile
-- warbeasts
+- war_beasts
 - monstrous_infantry
 - monstrous_cavalry
 - monsters

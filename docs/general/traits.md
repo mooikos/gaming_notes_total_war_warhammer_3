@@ -17,7 +17,7 @@ confident (HL)
 - +10 leadership
 
 cunning (L)
-- poison
+- attacks_poison
 - +10% ambush_success
 
 determined (HL)
@@ -58,4 +58,4 @@ tough (HL)
 
 weapon_master (HL)
 - +8 attack
-- +35 armour_piercing
+- +35 damage_armour_piercing

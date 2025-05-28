@@ -1,5 +1,5 @@
 ---
-permalink: items/enchanted_item
+permalink: items/enchanted-item
 parent: Items
 nav_order: 4
 ---
@@ -9,16 +9,16 @@ nav_order: 4
 ## Common
 
 featherfoe_torc
-- ability_featherfoe_torc
+- ability featherfoe_torc
 
 potion_of_speed
-- ability_potion_of_speed
+- ability potion_of_speed
 
 potion_of_strength
-- ability_potion_of_strength
+- ability potion_of_strength
 
 potion_of_thoughness
-- ability_potion_of_thoughness
+- ability potion_of_thoughness
 
 ## Abilities
 
