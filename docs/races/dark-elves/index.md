@@ -1,5 +1,5 @@
 ---
-permalink: dark-elves/_index
+permalink: dark-elves/index
 parent: Races
 has_children: true
 ---
