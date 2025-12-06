@@ -6,7 +6,7 @@ has_children: true
 
 # Races
 
-## [Dark Elves](dark-elves/index)
+## [Dark Elves](dark-elves/_index)
 
 - [Crone Hellebron](dark-elves/crone_hellebron)
 - [Lokhir Fellheart](dark-elves/lokhir_fellheart)
