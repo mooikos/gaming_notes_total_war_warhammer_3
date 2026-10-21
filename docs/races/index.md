@@ -8,9 +8,9 @@ has_children: true
 
 ## [Dark Elves](dark-elves/index)
 
-- [Crone Hellebron](dark-elves/crone_hellebron)
-- [Lokhir Fellheart](dark-elves/lokhir_fellheart)
+- [Crone Hellebron](dark-elves/crone-hellebron)
+- [Lokhir Fellheart](dark-elves/lokhir-fellheart)
 - [Malekith](dark-elves/malekith)
-- [Malus Darkblade](dark-elves/malus_darkblade)
+- [Malus Darkblade](dark-elves/malus-darkblade)
 - [Morathi](dark-elves/morathi)
 - [Rakarth](dark-elves/rakarth)

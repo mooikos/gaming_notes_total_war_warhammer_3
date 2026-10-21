@@ -31,5 +31,12 @@ has_children: true
 
 ## Race Specific
 
+- [Armies Skills](armies-skills)
+- [Buildings](buildings)
 - [Traits](traits)
-- [Unit Caps](unit_caps)
+- [Unit Caps](unit-caps)
+- [Unit Roles](unit-roles)
+
+## Counters
+
+- [Grand Cathay](counters/grand-cathay)

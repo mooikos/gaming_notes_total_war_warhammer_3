@@ -1,6 +1,6 @@
 ---
 permalink: dark-elves/counters/grand-cathay
-parent: General
+parent: Dark Elves
 ---
 
 # Grand Cathay (Dark Elves)

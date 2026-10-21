@@ -10,37 +10,153 @@ nav_order: 2
 
 - 1
   - (1-20) daemons_of_chaos
+    - (1) daemon_prince
+  - (21-40) legions_of_nagash
+    - (1) nagash
+  - (41-60) warriors_of_chaos_belakor
+    - (1) belakor
+  - (61-80) warriors_of_chaos_khorne
+    - (1) valkia_the_bloody
+  - (81-100) warriors_of_chaos_tzeentch
+    - (1) vilitch_the_curseling
 - 2
-  - (21-50) grand_cathay
-  - (51-80) khorne
-  - (81-110) norsca
-  - (111-140) nurgle
-  - (141-170) ogre_kingdoms
-  - (171-200) slaanesh
-  - (201-230) tzeentch
+  - (101-130) tzeentch
+    - (1) kairos_fateweaver
+    - (2) the_changeling
+  - (131-160) warriors_of_chaos_nurgle
+    - (1) festus_the_leechlord
+    - (2) the_glottkin
+  - (161-190) warriors_of_chaos_slaanesh
+    - (1) azazel
+    - (2) sigvald_the_magnificent
+  - (191-220) warriors_of_chaos_undivided
+    - (1) archaon_the_everchosen
+    - (2) kholek_suneater
 - 3
-  - (231-265) kislev
+  - (221-255) chaos_dwarfs
+    - (1) astragoth_ironhand
+    - (2) drazhoath_the_ashen
+    - (3) zhatan_the_black
+  - (256-290) khorne
+    - (1) arbaal_the_undefeated
+    - (2) skarbrand_the_exiled
+    - (3) skulltaker
+  - (291-325) norsca
+    - (1) sayl_the_faithless
+    - (2) throgg
+    - (3) wulfrik_the_wanderer
+  - (326-360) nurgle
+    - (1) epidemius
+    - (2) kugath_plaguefather
+    - (3) tamurkhan_the_maggot_lord
+  - (361-395) ogre_kingdoms
+    - (1) golgfag_maneater
+    - (2) greasus_goldtooth
+    - (3) skrag_the_slaughterer
+  - (396-430) slaanesh
+    - (1) dechala_the_denied_one
+    - (2) nkari
+    - (3) the_masque_of_slaanesh
 - 4
-  - (266-305) beastmen
-  - (306-345) bretonnia
-  - (346-385) the_empire
-  - (486-425) tomb_kings
-  - (466-505) vampire_coast
-  - (506-545) warriors_of_chaos
-  - (546-585) wood_elves
-- 5
-  - (586-630) dwarfs
-  - (631-675) greenskins
-  - (676-720) vampire_counts
+  - (431-470) beastmen
+    - (1) khazrak_the_one_eye
+    - (2) malagor_the_dark_omen
+    - (3) morghur_the_shadowgave
+    - (4) taurox_the_brass_bull
+  - (471-510) bretonnia
+    - (1) alberic_de_bordeleaux
+    - (2) fay_enchantress
+    - (3) louen_leoncoeur
+    - (4) repanse_de_lyonesse
+  - (511-550) grand_cathay
+    - (1) bhashiva
+    - (2) miao_ying
+    - (3) yuan_bo
+    - (4) zhao_ming
+  - (551-590) kislev
+    - (1) boris_ursus
+    - (2) kostaltyn
+    - (3) mother_ostankya
+    - (4) tzarina_katarin
+  - (591-630) tomb_kings
+    - (1) arkhan_the_black
+    - (2) grand_hierophant_khatep
+    - (3) high_queen_khalida
+    - (4) settra_the_imperishable
+  - (631-670) vampire_coast
+    - (1) aranessa_saltspite
+    - (2) count_noctilus
+    - (3) cylostra_direfin
+    - (4) luthor_harkon
+  - (671-710) wood_elves
+    - (1) drycha
+    - (2) durthu
+    - (3) orion
+    - (4) sisters_of_twilight
 - 6
-  - (721-770) dark_elves
-  - (771-820) high_elves
-  - (821-870) skaven
+  - (711-760) dark_elves
+    - (1) crone_hellebron
+    - (2) lokhir_fellheart
+    - (3) malekith
+    - (4) malus_darkblade
+    - (5) morathi
+    - (6) rakarth
+  - (761-810) dwarfs
+    - (1) belegar_ironhammer
+    - (2) grombrindal
+    - (3) malakai_makaisson
+    - (4) thorek_ironbrow
+    - (5) thorgrim_grudgebearer
+    - (6) ungrim_ironfist
+  - (811-860) greenskins
+    - (1) azhag_the_slaughterer
+    - (2) gorbad_ironclaw
+    - (3) grimgor_ironhide
+    - (4) grom_the_paunch
+    - (5) skarsnik
+    - (6) wurrzag
+  - (861-910) the_empire
+    - (1) balthasar_gelt
+    - (2) boris_todbringer
+    - (3) elspeth_von_draken
+    - (4) karl_franz
+    - (5) markus_wulfhart
+    - (6) volkmar_the_grim
+  - (911-960) vampire_counts
+    - (1) heinrich_kemmler
+    - (2) helman_ghorst
+    - (3) isabella_von_carstein
+    - (4) mannfred_von_carstein
+    - (5) neferata
+    - (6) vlad_von_carstein
 - 7
-  - (871-925) lizardmen
+  - (961-1015) high_elves
+    - (1) aislinn
+    - (2) alarielle_the_everqueen
+    - (3) alith_anar
+    - (4) eltharion_the_grim
+    - (5) imrik
+    - (6) teclis
+    - (7) tyrion
+  - (1016-1070) lizardmen
+    - (1) gor_rok
+    - (2) kroq_gar
+    - (3) mazdamundi
+    - (4) nakai_the_wanderer
+    - (5) oxyotl
+    - (6) tehenhauin
+    - (7) tiktaqto
+  - (1071-1125) skaven
+    - (1) deathmaster_snikch
+    - (2) ikit_claw
+    - (3) lord_skrolk
+    - (4) queek_headtaker
+    - (5) thanquol
+    - (6) throt_the_unclean
+    - (7) tretch_craventail
 
-(1 * 1) + (7 * 2) + 3 + (7 * 4) + (3 * 5) + (3 * 6) + (1 * 7) = 86
+(5 \* 1) + (4 \* 2) + (6 \* 3) + (7 \* 4) + (5 \* 6) + (3 \* 7) = 110
 
 ## Races Count
 
-23
+25 (30 with warriors_of_chaos subcategories)

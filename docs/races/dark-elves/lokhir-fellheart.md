@@ -49,5 +49,6 @@ nav_order: 1
 ### alliances
 
 initial
+
 - deathmaster_snitch
 - nakai_the_wanderer

@@ -8,13 +8,13 @@ has_children: true
 
 ## Equipment
 
-- [Armour](armour)
-- [Weapon](weapon)
-- [Talisman](talisman)
-- [Enchanted Item](enchanted_item)
-- [Arcane Item](arcane_item)
+- [Armour](items/armour)
+- [Weapon](items/weapon)
+- [Talisman](items/talisman)
+- [Enchanted Item](items/enchanted-item)
+- [Arcane Item](items/arcane-item)
 
 ## Banners & Followers
 
-- [Banner](banner)
-- [Follower](follower)
+- [Banner](items/banner)
+- [Follower](items/follower)

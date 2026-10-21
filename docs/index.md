@@ -8,16 +8,16 @@ This site holds gaming notes about [Total War Warhammer 3](https://store.steampo
 
 ## General Info
 
-- [Descriptions](descriptions)
-- [Traits](traits)
-- [Armies Compositions](armies_compositions)
-- [Unit Caps](unit_caps)
+- [Descriptions](general/descriptions)
+- [Traits](general/traits)
+- [Unit Types](general/unit-types)
+- [Unit Roles](general/unit-roles)
+- [Armies Compositions](general/armies-compositions)
 - [Items](items)
 - [Races](races)
-  - [Factions](factions)
 
 ## Campaigns
 
-- [Lord Randomization](lord_randomization)
-  - [Immortal Empires](immortal_empires)
-- [Completed Campaigns](completed_campaigns)
+- [Lord Randomization](campaigns/lord-randomization)
+  - [Immortal Empires](campaigns/immortal-empires)
+- [Completed Campaigns](campaigns/completed)

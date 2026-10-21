@@ -1,0 +1,24 @@
+# AGENTS.md — Total War: Warhammer 3 Gaming Notes
+
+## Project Overview
+We organize, maintain, and expand structured Markdown (`.md`) gaming notes for **Total War: Warhammer 3** in this repository (`gaming_notes_total_war_warhammer_3`).
+The site is built with Jekyll using the [Just the Docs](https://just-the-docs.com) theme from the `docs/` directory and hosted on GitHub Pages (`https://mooikos.github.io/gaming_notes_total_war_warhammer_3`).
+
+## Core Principle: Always Keep Everything Up-to-Date
+- **Always keep all files and references up-to-date.** Whenever you create, edit, rename, or remove a `.md` file:
+  1. Update `docs/index.md` and the relevant section `index.md` (`docs/campaigns/index.md`, `docs/general/index.md`, `docs/items/index.md`, `docs/races/index.md`, `docs/races/<race>/index.md`).
+  2. Verify Jekyll frontmatter (`permalink`, `parent`, `nav_order`, `has_children`) matches the folder hierarchy and link targets.
+  3. Check and update cross-links across all `.md` files and `README.md` so no broken links or stale references exist.
+  4. Keep this `AGENTS.md` file up-to-date whenever project structure, conventions, or workflows evolve.
+
+## Repository Structure (`docs/`)
+- `docs/index.md` — Home page (`nav_exclude: true`)
+- `docs/campaigns/` — Campaign tracking, Immortal Empires lord counts, lord randomization, completed campaigns
+- `docs/general/` — General terminology/descriptions, generic traits, unit types, unit roles, army compositions
+- `docs/items/` — Equipment & banners (`armour`, `weapon`, `talisman`, `enchanted-item`, `arcane-item`, `banner`)
+- `docs/races/` — Race-specific guides, factions/legendary lords, generic lords & heroes, buildings, traits, unit caps, unit roles, and counters
+
+## Formatting & Naming Conventions
+- **File names & Permalinks**: Use `kebab-case` (e.g., `armies-compositions.md`, `permalink: general/armies-compositions`).
+- **In-note identifiers**: Use `snake_case` for unit names, stats, abilities, and traits inside note bodies (e.g., `damage_armour_piercing`, `black_ark_corsairs`), matching `docs/general/descriptions.md`.
+- **Markdown quality**: Ensure proper heading hierarchy (`#` -> `##` -> `###`), valid list indentation, escaped special characters where needed, and valid relative/permalink URLs.

@@ -6,7 +6,7 @@ nav_order: 4
 
 # Armies Compositions
 
-### Ranged Waiting
+## Ranged Waiting
 
 - 1 [standard hero set](#standard-hero-set)
 - 4 defensive infantry_melee
@@ -15,7 +15,7 @@ nav_order: 4
 - 2 cavalry_melee / war_beasts / monstrous_cavalry
 - 2-3 artilleries
 
-### Melee Engage
+## Melee Engage
 
 - 1 [standard hero set](#standard-hero-set)
 - 6 offensive infantry_melee / monstrous_infantry
@@ -30,6 +30,7 @@ nav_order: 4
 ## Standard Hero Set
 
 between 3 and 5 heroes
+
 - 1 tank
 - 1 fighter
 - (optional) 1 ranged

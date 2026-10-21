@@ -6,7 +6,8 @@ has_children: true
 
 # General
 
-- [Descriptions](descriptions)
-- [Traits](traits)
-- [Unit Types](unit_types)
-- [Armies Compositions](armies_compositions)
+- [Descriptions](general/descriptions)
+- [Traits](general/traits)
+- [Unit Types](general/unit-types)
+- [Unit Roles](general/unit-roles)
+- [Armies Compositions](general/armies-compositions)

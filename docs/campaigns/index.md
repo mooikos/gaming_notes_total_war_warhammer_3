@@ -6,6 +6,6 @@ has_children: true
 
 # Campaigns
 
-- [Lord Randomization](lord_randomization)
-- [Immortal Empires](immortal_empires)
-- [Completed](completed)
+- [Lord Randomization](campaigns/lord-randomization)
+- [Immortal Empires](campaigns/immortal-empires)
+- [Completed](campaigns/completed)

@@ -5,8 +5,9 @@ This repository holds gaming notes about [Total War Warhammer 3](https://store.s
 ## Local debugging
 
 run from the `docs` folder
+
 - `bundle exec jekyll serve`
 
-## Userfull Links
+## Useful Links
 
 The used jekyll theme [documentation](https://just-the-docs.com)

@@ -6,7 +6,8 @@ nav_order: 3
 
 # Unit Types
 
-potential prefix "_flying_\_"
+potential prefix "*flying\_*"
+
 - infantry_melee
 - infantry_missile
 - cavalry_melee
