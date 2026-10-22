@@ -1,7 +1,7 @@
 ---
-permalink: dark-elves/supreme-sorceress
+permalink: dark-elves/lords/supreme-sorceress
 parent: Dark Elves
-nav_order: 10
+grand_parent: Races
 ---
 
 # Supreme Sorceress

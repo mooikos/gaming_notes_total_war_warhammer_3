@@ -1,7 +1,7 @@
 ---
-permalink: dark-elves/dreadlord
+permalink: dark-elves/lords/dreadlord
 parent: Dark Elves
-nav_order: 7
+grand_parent: Races
 ---
 
 # Dreadlord

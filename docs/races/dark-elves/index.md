@@ -17,22 +17,22 @@ has_children: true
 
 ## Lords
 
-- [Dreadlord](dreadlord)
-- [Dreadlord Crossbow](dreadlord-crossbow)
-- [High Beastmaster](high-beastmaster)
-- [Supreme Sorceress](supreme-sorceress)
+- [Dreadlord](lords/dreadlord)
+- [Dreadlord Crossbow](lords/dreadlord-crossbow)
+- [High Beastmaster](lords/high-beastmaster)
+- [Supreme Sorceress](lords/supreme-sorceress)
 
 ## Heroes
 
-- [Death Hag](death-hag)
-- [Khainite Assassin](khainite-assassin)
-- [Master](master)
-- [Sorceress](sorceress) (beast / dark / death / fire / shadows)
+- [Death Hag](heroes/death-hag)
+- [Khainite Assassin](heroes/khainite-assassin)
+- [Master](heroes/master)
+- [Sorceress](heroes/sorceress) (beast / dark / death / fire / shadows)
 
 ## Race Specific
 
-- [Armies Skills](armies-skills)
 - [Buildings](buildings)
+- [Names of Power](names-of-power)
 - [Traits](traits)
 - [Unit Caps](unit-caps)
 - [Unit Roles](unit-roles)
