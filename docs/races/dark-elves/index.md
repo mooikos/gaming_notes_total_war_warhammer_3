@@ -45,6 +45,7 @@ has_children: true
 - [Enchanted Item](../items/enchanted-item/dark-elves)
 - [Arcane Item](../items/arcane-item/dark-elves)
 - [Banner](../items/banner/dark-elves)
+- [Follower](../items/follower/dark-elves)
 
 ## Counters
 

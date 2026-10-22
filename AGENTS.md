@@ -16,7 +16,7 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
 - `docs/index.md` — Home page (`nav_exclude: true`)
 - `docs/campaigns/` — Campaign tracking, Immortal Empires lord counts, lord randomization, completed campaigns
 - `docs/general/` — General terminology/descriptions, generic traits, unit types, unit roles, army compositions
-- `docs/items/` — Equipment & banners (`armour/`, `weapon/`, `talisman/`, `enchanted-item/`, `arcane-item/`, `banner/`). Each category subfolder splits items into `generic.md` (items available to all races / ranged characters) and race-specific pages (e.g., `dark-elves.md`, which includes both race-exclusive and multi-race/lore-specific items available to that race), ordered incrementally by rarity in tables with inline ability descriptions.
+- `docs/items/` — Equipment, banners & followers (`armour/`, `weapon/`, `talisman/`, `enchanted-item/`, `arcane-item/`, `banner/`, `follower/`). Each category subfolder splits items into `generic.md` (items available to all races / ranged characters / cross-race events) and race-specific pages (e.g., `dark-elves.md`, which includes both race-exclusive and multi-race/lore-specific items available to that race), ordered incrementally by rarity in tables with inline ability/unlock descriptions.
 - `docs/races/` — Race-specific guides, factions/legendary lords, generic lords & heroes, buildings, traits, unit caps, unit roles, items, and counters
 
 ## Formatting & Naming Conventions
