@@ -37,6 +37,7 @@ nav_order: 1
 - leadership_army
 - leadership_aura_effect
 - leadership_aura_size
+- miscast_chance
 - missile_ammunition
 - missile_block
 - missile_range
@@ -46,12 +47,15 @@ nav_order: 1
 - movement_speed
 - power_added
 - power_recharge
+- power_reserve_capacity
 - resistance_fire
 - resistance_missile
 - resistance_missile_army
 - resistance_physical
 - resistance_spell
+- spell_intensity
 - spells_cooldown
+- spells_range
 - vigour
 - ward_save
 - weapon_strength
@@ -70,9 +74,11 @@ nav_order: 1
 - fear
 - immune_to_psychology
 - regeneration
+- stalk
 - strider
 - terror
 - unbreakable
+- unspottable
 - wayfarer
 
 ## Stats Campaign
@@ -97,9 +103,11 @@ nav_order: 1
 - line_of_sight
 - magic_items_drop
 - movement_campaign
+- power_reserve_per_turn
 - public_order
 - recruit_duration all/X
 - recruit_level all/X
+- spells_cost_enemy_local
 - trade_production
 - upkeep
 

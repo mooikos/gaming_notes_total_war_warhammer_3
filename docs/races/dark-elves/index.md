@@ -36,6 +36,7 @@ has_children: true
 - [Traits](traits)
 - [Unit Caps](unit-caps)
 - [Unit Roles](unit-roles)
+- [Arcane Items](../items/arcane-item/dark-elves)
 
 ## Counters
 
