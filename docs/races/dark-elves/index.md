@@ -36,7 +36,15 @@ has_children: true
 - [Traits](traits)
 - [Unit Caps](unit-caps)
 - [Unit Roles](unit-roles)
-- [Arcane Items](../items/arcane-item/dark-elves)
+
+## Items
+
+- [Armour](../items/armour/dark-elves)
+- [Weapon](../items/weapon/dark-elves)
+- [Talisman](../items/talisman/dark-elves)
+- [Enchanted Item](../items/enchanted-item/dark-elves)
+- [Arcane Item](../items/arcane-item/dark-elves)
+- [Banner](../items/banner/dark-elves)
 
 ## Counters
 

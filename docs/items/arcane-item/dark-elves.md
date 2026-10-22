@@ -7,9 +7,6 @@ nav_order: 2
 
 # Arcane Item (Dark Elves)
 
-Available to all **Dark Elves** factions (including **The Blessed Dread** / `lokhir_fellheart`).
-*Note: Equipped by spellcaster Lords and Heroes (`supreme_sorceress`, `sorceress`, `malekith`, `morathi`); `lokhir_fellheart` himself is a melee Lord and does not have an Arcane Item slot.*
-
 | Item | Rarity | Stats | Ability & Explanation |
 | :--- | :--- | :--- | :--- |
 | `darkstar_cloak` | Common | `stalk` | **`darkstar_cloak`** (passive, *Augment of the Winds*, `self`, infinite duration): Passively grants `+40% power_recharge`. |

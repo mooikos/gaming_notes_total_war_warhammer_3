@@ -7,8 +7,6 @@ nav_order: 1
 
 # Arcane Item (Generic)
 
-Available to all magic-using races (`all_except_khorne_dwarfs`), including **Dark Elves** (*The Blessed Dread* / `lokhir_fellheart` spellcasters).
-
 | Item | Rarity | Stats | Ability & Explanation |
 | :--- | :--- | :--- | :--- |
 | `earthing_rod` | Common | `+2 power_reserve_per_turn` | **`earthing_rod`** (active, *Augment*, `self`, 1 use, 36s duration, 60s cooldown): Grants `-100% miscast_chance`. |

@@ -18,11 +18,14 @@ nav_order: 1
 
 ## Stats Battles
 
+- accuracy
 - armour
 - armour_piercing_conversion
 - armour_piercing_conversion_missile
 - attack
 - attack_army
+- barrier
+- battle_healing_cap
 - bonus_vs_infantry
 - bonus_vs_large
 - charge
@@ -44,6 +47,7 @@ nav_order: 1
 - missile_reload
 - missile_strength
 - movement_acceleration
+- movement_deceleration
 - movement_speed
 - power_added
 - power_recharge
@@ -56,6 +60,8 @@ nav_order: 1
 - spell_intensity
 - spells_cooldown
 - spells_range
+- spotting_forest
+- spotting_scrub
 - vigour
 - ward_save
 - weapon_strength
@@ -66,20 +72,33 @@ nav_order: 1
 - ability X
 - ability cooldown X
 - ability passive X
+- 360_missile_block
 - attacks_discouraged
+- attacks_flammable
 - attacks_flaming
+- attacks_frostbite
+- attacks_inevitable_end
 - attacks_magic
 - attacks_poison
+- attacks_shieldbreaker
+- attacks_slow_death
 - attacks_sundering
+- cannot_move
+- contempt
+- executioner
 - fear
+- frenzy
 - immune_to_psychology
 - regeneration
+- snipe
 - stalk
 - strider
 - terror
 - unbreakable
 - unspottable
+- vanguard_deployment
 - wayfarer
+- woodsman
 
 ## Stats Campaign
 
